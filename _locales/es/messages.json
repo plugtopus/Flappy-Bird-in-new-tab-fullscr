@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Flappy Bird game opens in new tab in full screen"
+   },
+   "name": {
+      "message": "Flappy Bird in new tab"
+   },
+   "shortname": {
+      "message": "Flappy Bird"
+   },
+   "title": {
+      "message": "Flappy Bird in new tab"
+   }
+}
